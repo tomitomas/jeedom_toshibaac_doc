@@ -69,3 +69,10 @@ Les commandes suivantes permettent de récupérer différents éléments de l'é
 
 
 <br/><br/>
+
+
+# Options  
+
+## Offset  
+
+Si vous constatez une différence entre la température remontée par votre clim et la température réelle de votre pièce, vous pouvez indiquer un `offset` sur chacun de vos appareils. Cette différence (positive ou négative) est ajoutée à la température du climatiseur, et à la consigne envoyée à l'appareil. 
